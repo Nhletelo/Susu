@@ -1,4 +1,4 @@
-"""
+
 Susu (Rotating Savings Group) Manager
 ======================================
 
@@ -43,4 +43,4 @@ rule, not just an implementation detail):
 
 No GUI is built. A small library (SusuGroup) plus a plain text menu/CLI
 sits on top of it.
-"""
+
