@@ -258,7 +258,7 @@ def run_cli() -> None:
         except SusuError as e:
             print(f"Error: {e}")
 
-    menu = """
+    menu = """   
 Choose an action:
   1) Add member
   2) Record a contribution
